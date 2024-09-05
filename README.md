@@ -12,7 +12,10 @@ bikeshare
 This project has three input files and python file to do process on them
 
 ### Files used
-Include the files used
+chicago.csv
+New_york_city.csv
+Washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+fork from https://github.com/udacity/pdsnd_github
