@@ -246,6 +246,8 @@ change1 in bikeshare
 change2 in bikeshare
 change3 in bikeshare
 change4 in bikeshare
+refatroing the code
+need more comments
 '''
 if __name__ == "__main__":
 	main()
