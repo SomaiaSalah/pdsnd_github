@@ -9,7 +9,7 @@ Washington.csv
 bikeshare
 
 ### Description
-Describe what your project is about and what it does
+This project has three input files and python file to do process on them
 
 ### Files used
 Include the files used
