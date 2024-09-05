@@ -15,4 +15,11 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-other edit from other branch
+This edit1 from Somaia Salah
+This edit2 from Somaia Salah
+This edit3 from Somaia Salah
+This edit4 from Somaia Salah
+This edit5 from Somaia Salah
+
+
+
